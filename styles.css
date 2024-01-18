@@ -1,0 +1,26 @@
+span {
+    color: steelblue;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: steelblue;
+}
+
+a {
+    color: rebeccapurple;
+}
+
+#small-img{
+    width: 320px;
+    padding-top: 5px;
+}
+
+img {
+    width: 650;
+}
+
+
